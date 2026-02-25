@@ -668,6 +668,6 @@ IoU_Independent_External_Test = IoU;
 
 %% Save Metrics
 
-if isequal(name,'metrics_trainedNet_paper') == 0
+if isequal(name,'trainedNet_paper') == 0
     save(['metrics_' name '.mat'],'F1_Training','IoU_Training','F1_Validation','IoU_Validation','F1_Internal_Test','IoU_Internal_Test','F1_Independent_Internal_Test','IoU_Independent_Internal_Test','F1_Independent_External_Test','IoU_Independent_External_Test')
 end
