@@ -10,7 +10,7 @@ close all
 clear all
 clc
 
-name = 'trainedNet-2025-07-04-11-25-00-Epoch-100'; % type name of the trained network. If you want to reproduce exactly the same results of the paper, type 'trainedNet_paper'.
+name = 'trainedNet_paper'; % type name of the trained network. If you want to reproduce exactly the same results of the paper, type 'trainedNet_paper'.
 load([name '.mat'],'net')
 
 isShow = 0; % type 1 if you want to see images, otherwise 0 if you just want to calculate metrics.
