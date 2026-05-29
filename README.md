@@ -1,6 +1,6 @@
 # Holotomography-driven learning for in-silico staining
 
-This repository accompanies the paper *[Pirone, D., Giugliano, G., Schiavo, M., Montella, A., Mugnano, M., Cerbone, V., Raia, M., Scalia, G., Kurelac, I., Medina, D. L., Capasso, M., Iolascon, A., Memmolo, P. & Ferraro, P. (2025). Holotomography-driven learning unlocks in-silico staining of single cells in flow cytometry by avoiding fluorescence co-registration. Opto-Electronic Science 5, 260003 (2026). http://dx.doi.org/10.29026/oes.2026.260003]*.  
+This repository accompanies the paper *[Pirone, D., Giugliano, G., Schiavo, M., Montella, A., Mugnano, M., Cerbone, V., Raia, M., Scalia, G., Kurelac, I., Medina, D. L., Capasso, M., Iolascon, A., Memmolo, P. & Ferraro, P., "Holotomography-driven learning unlocks in-silico staining of single cells in flow cytometry by avoiding fluorescence co-registration," Opto-Electronic Science 5, 260003 (2026). http://dx.doi.org/10.29026/oes.2026.260003]*.  
 It provides the MATLAB® R2024b code and dataset to reproduce and extend the results of our proposed Holotomography-driven deep learning framework for the in-silico staining of single-cell Quantitative Phase Maps (QPMs) acquired under flow cytometry conditions.
 
 ---
